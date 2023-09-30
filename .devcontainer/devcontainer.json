@@ -12,5 +12,12 @@
             "jdkDistro": "ms"
         },
         "ghcr.io/mikaello/devcontainer-features/kotlinc:1": {},
-    }
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"sethjones.kotlin-on-vscode"
+			]
+		}
+	}
 }
